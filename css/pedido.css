@@ -1,8 +1,6 @@
 /** Diseño para el apartado pedido*/
 
 div.Titulo{
-    background-color: #fccb6f;
-    background-image: url(../img/fondo4.jpeg);
     background-size:30%;
     background-position:left;
     background-repeat:no-repeat;
@@ -19,7 +17,7 @@ div.Titulo2{
     font-size: 35px;
     color: #01004b;
     text-shadow: -3px 4px #e75757;
-    margin-bottom: -5%;
+    
 }
 
 /** Diseño para la Tabla de Detalle Pedido**/

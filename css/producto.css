@@ -76,9 +76,8 @@ h2.tituloproducto {
   text-shadow: -3px 4px #000;
 }
 div.titulo {
-  background-color: #fccb6f;
+  background-color: #e0e0e0;
   margin: 0;
-  background-image: url(../img/fondo4.jpeg);
   background-size: 20%;
   background-position: left;
   background-repeat: no-repeat;
@@ -87,7 +86,7 @@ div.titulo {
 
 /*Diseño de los productos */
 .allitems {
-  background-color: #e75757;
+  background-color: #e0e0e0;
   padding: 20px;
   display: flex;
   justify-content: center;
@@ -107,7 +106,7 @@ div.titulo {
   box-shadow: 0px 1px 13px rgba(0, 0, 0, 0.1);
   transition: all 120ms;
   display: flex;
-  background: #fffb0e;
+  background: #ffffff;
   padding: 0.5em;
   padding-bottom: 3.4em;
 }
@@ -138,7 +137,7 @@ div.titulo {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   border: none;
-  background-color: rgb(34, 0, 253);
+  background-color: rgb(38 53 93);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -195,7 +194,7 @@ div.titulo {
 }
 
 .image-Tienda {
-  background: rgba(124, 116, 79, 0.89);
+  background: rgb(0 0 0 / 89%);
   width: 100%;
   height: 100%;
   place-items: flex;
@@ -210,9 +209,9 @@ div.titulo {
   margin-bottom: -16px;
   left: 50%;
   transform: translateX(-50%);
-  color: rgb(250, 246, 181);
-  text-shadow: -2px 1.5px #000;
-  font-size: 18px;
+  color: rgb(255 255 255);
+  text-shadow: -2px 1.5px #000000;
+  font-size: 16px;
   width: 90%;
   text-align: center;
   opacity: 0;
